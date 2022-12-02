@@ -1,2 +1,2 @@
 # diy-page
-Making my first HTML CSS website, Odin Project
+Making a HTML/CSS page from scratch using googling. a Odin Project task
