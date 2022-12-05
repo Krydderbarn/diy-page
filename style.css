@@ -1,21 +1,29 @@
+
+* {
+    outline: 1px solid red;
+  }
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     flex-direction: column;
     font-display: center;
+
 }
 
-.container-header{
-    background-color: white;
-}
-.container-header__wrapper {
-    background-color: #1f2937;
+.container__wrapper {
+    background-color: 0 0 0 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 0px 150px;
     padding: 10px 10px 100px 10px;
 }
+
+.container-header{
+    display: flex;
+}
+
 
 .header-left {
     display: flex;
@@ -31,7 +39,6 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
 }
 
 .container--info {
