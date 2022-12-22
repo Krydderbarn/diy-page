@@ -27,7 +27,7 @@ body {
 
 
 .header-left {
-    display: flex;
+    display: flex;1
     align-items: flex-start;
     
 }
@@ -53,4 +53,42 @@ a {
 
 .info.right {
     padding-right: 100px;
+}
+
+.container--heads {
+    display: flex;
+    flex-direction: column;
+}
+
+.heads--headshot {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.headshot--1 {
+    width: 50px;
+}
+.headshot--2 {
+    width: 50px;
+}
+.headshot--3 {
+    width: 50px;
+}
+
+
+.container--contact{
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+}
+
+.footer--ad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
