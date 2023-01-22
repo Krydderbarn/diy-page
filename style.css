@@ -21,8 +21,6 @@ body {
 .header{
     background-color: rgb(72, 72, 104);
     align-items: center;
-
-
 }
 
     .wrapper{
@@ -42,3 +40,8 @@ body {
             }
 
 
+.footer{
+    background-color: rgb(72, 72, 104);
+    align-items: center;
+    justify-content: center;
+}
