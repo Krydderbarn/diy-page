@@ -45,14 +45,10 @@ body {
 
 .gallery{
     background-color: rgb(141, 190, 232);
-    flex-direction: column;
+
 }
 
-    .faceshots{
-        justify-items: center;
-        align-items: center;
 
-    }
 
 
   
