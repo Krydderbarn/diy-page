@@ -25,18 +25,20 @@ body {
 
 }
 
-.wrapper{
-    display: flex;
-    justify-content: space-between;
-    max-width: 1000px;
-    margin: 0 auto;
-}
+    .wrapper{
+        display: flex;
+        justify-content: space-between;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
 
-.links{
-    display: flex;
-    align-content: flex-end;
-    
-}
-
+        .links{
+            display: flex;
+            align-content: flex-end;
+            
+        }
+            .link{
+                margin: 0px 6px;
+            }
 
 
