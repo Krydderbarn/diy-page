@@ -45,12 +45,23 @@ body {
 
 .gallery{
     background-color: rgb(141, 190, 232);
+    }
+    .gallery > .wrapper{
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
 
+
+.quote{
+    background-color: rgb(140, 94, 38);
 }
 
-
-
-
+.signup{
+    background-color: beige;
+}
   
 
 .footer{
