@@ -39,6 +39,10 @@ body {
                 margin: 0px 6px;
             }
 
+.welcome{
+    background-color: rgb(72, 72, 104);
+}
+
 
 .footer{
     background-color: rgb(72, 72, 104);
